@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fakhrul-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="fakhrul-hasan" /> </p>
 
+- 🔭 I’m working in **RISOSI**
+  
 - 🌱 I’m currently learning **Mongoose, TypeScript**
 
 - 💬 Ask me about **React.js, Next.js**
